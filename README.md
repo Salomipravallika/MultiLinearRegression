@@ -11,6 +11,9 @@ State -- states from which data is collected
 Profit  -- profit of each state in the past few years
 
 
+
+
+
 Q2)
 Consider only the below columns and prepare a prediction model for predicting Price.
 
